@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Gary\Desktop\CIA - CarInfoApp\CIA - CarInfoApp\bin\ARM\Release\Upload\CIA - CarInfoApp_1.1.0.0_ARM.appx
+SymbolPackage=C:\Users\Gary\Desktop\CIA - CarInfoApp\CIA - CarInfoApp\AppPackages\CIA - CarInfoApp_1.1.0.0\CIA - CarInfoApp_1.1.0.0_ARM.appxsym
